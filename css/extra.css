@@ -1,0 +1,36 @@
+:root {
+
+  /* Primary color shades */
+  --md-primary-fg-color:               #306AB5 ;
+  --md-primary-fg-color--light:        ...;
+  --md-primary-fg-color--dark:         ...;
+  --md-primary-bg-color:               #ddf ;
+  --md-primary-bg-color--light:        #fff ;
+
+    /* Accent color shades */
+ --md-accent-fg-color:                 #315FA5 ;
+ --md-accent-fg-color--transparent:    ...;
+ --md-accent-bg-color:                 ...;
+ --md-accent-bg-color--light:          ...;
+ 
+ > * {
+ 
+    --md-footer-fg-color:              #999999 ;
+    --md-footer-bg-color:              #AAAAAA ;
+ 
+    }
+ 
+}
+
+img[src*="#sitelogo"] {
+   float: right;
+   padding: 0px 0px 30px 50px;
+}
+
+#md-table { font-size: 90%; }
+
+#md-table tr:nth-child(even) { background-color: #f2f2f2; }
+
+#md-table tr:hover { background-color: #ddd; }
+
+#md-table th { background-color: #3261A7; color: white; font-weight: bold; }
