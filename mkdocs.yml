@@ -1,0 +1,64 @@
+site_name:  "Dokumentation Lernfeld 8"
+site_author: "i21hahndo@bszetdd.lernsax.de"
+
+dev_addr: '0.0.0.0:80'
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.details
+  - smarty:
+      substitutions:
+        left-single-quote: '&sbquo;'
+        right-single-quote: '&lsquo;'
+        left-double-quote: '&bdquo;'
+        right-double-quote: '&ldquo;'
+  - toc
+  
+plugins:
+    - search:
+       lang: de
+       lang: en
+       
+theme:
+  name: material
+  language: de
+  font: false
+  
+# Settings
+docs_dir: 'docs'
+site_dir: 'site'
+
+extra:
+  generator: false
+
+extra_css:
+    - css/extra.css
+    
+extra_javascript:
+    - js/extra.js
+    
+nav:
+  - Home: index.md
+  - Phase 1: 
+    - Analyse: phase1/analyse.md
+    - Zielplattformen: phase1/plattformen.md
+    - Anwendungsfalldiagramm: phase1/anwendungsfall.md
+  - Phase 2: 
+    - gemeinsame Datenablage: phase2/datenablage.md
+  - Phase 3: 
+    - Sequenzdiagramm: phase3/diagramm.md
+  - Phase 4:
+    - Dokumentation: phase4/doku.md
+  - Phase 5:
+    - Analyse von Datenquellen: phase5/datenquellen.md
+  - Phase 6:
+    - Erstellung einer Benutzerverwaltung: phase6/benutzerverwaltung.md
+  - Phase 7:
+    - Erstellung eines IT-Sicherheitskonzepts: phase7/sicherheitskonzept.md
+  - Phase 8:
+    - Datenquellen in einen zentralen Datenbestand überführen: phase8/datenbestand.md
+
+
