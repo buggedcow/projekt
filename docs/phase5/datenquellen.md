@@ -1,5 +1,5 @@
-# Phase 3 - Sequenzdiagramm
+# Phase 5 - Analyse von Datenquellen und der elektronischen Varianten
 
-## Folgendes Sequenzdiagramm wurde erstellt:
+## Folgende Analyse wurde erstellt:
 
-[Sequenzdiagramm.pdf](/phase3/sequenzdiagramm.pdf)
+[datenquellen.pdf](/phase5/datenquellen.pdf)
