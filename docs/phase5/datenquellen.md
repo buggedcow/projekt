@@ -2,4 +2,4 @@
 
 ## Folgende Analyse wurde erstellt:
 
-[datenquellen.pdf](/phase5/datenquellen.pdf)
+[datenquellen.pdf](datenquellen.pdf)
