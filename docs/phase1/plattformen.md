@@ -12,4 +12,4 @@ Dazu gehört:
 
 Die Vor und Nachteile der genannten Plattformen sind in der PDF zu finden:
 
-[Zielplattformen.pdf](/phase1/plattformen.pdf)
+[Zielplattformen.pdf](plattformen.pdf)
