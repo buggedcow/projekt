@@ -2,4 +2,4 @@
 
 ## Folgende Analyse wurde durchgeführt:
 
-[Analyse.pdf](https://github.com/buggedcow/projekt/blob/master/docs/phase1/analyse.pdf)
+[Analyse.pdf](analyse.pdf)
