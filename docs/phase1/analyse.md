@@ -2,4 +2,4 @@
 
 ## Folgende Analyse wurde durchgeführt:
 
-[Analyse.pdf](/phase1/analyse.pdf)
+[Analyse.pdf](analyse.pdf)
