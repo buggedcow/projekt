@@ -12,4 +12,4 @@ Dazu gehört:
 
 Die Vor und Nachteile der genannten Plattformen sind in der PDF zu finden:
 
-[Zielplattformen.pdf](plattformen.pdf)
+[Zielplattformen.pdf](https://github.com/buggedcow/projekt/blob/master/docs/phase1/anwendungsfalldiagramm.pdf)
