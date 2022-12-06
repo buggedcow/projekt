@@ -2,4 +2,4 @@
 
 ## Folgendes Sequenzdiagramm wurde erstellt:
 
-[Sequenzdiagramm.pdf](/phase3/sequenzdiagramm.pdf)
+[Sequenzdiagramm.pdf](sequenzdiagramm.pdf)
