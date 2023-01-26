@@ -59,6 +59,7 @@ nav:
   - Phase 7:
     - Erstellung eines IT-Sicherheitskonzepts: phase7/sicherheitskonzept.md
   - Phase 8:
-    - Datenquellen in einen zentralen Datenbestand überführen: phase8/datenbestand.md
-
+    - Datenquellen in einen zentralen Datenbestand überführen: phase8/datenmodell.md
+  - Phase 9:
+    - Skript zur Erstellung einer geeigneten Datenbankstruktur: phase9/datenbank.md
 

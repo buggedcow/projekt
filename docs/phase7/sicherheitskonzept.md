@@ -1,5 +1,5 @@
-# Phase 3 - Sequenzdiagramm
+# Phase 7 - Sicherheitskonzept
 
-## Folgendes Sequenzdiagramm wurde erstellt:
+## Folgendes Sicherheitskonzept wurde erstellt:
 
-[Sequenzdiagramm.pdf](/phase3/sequenzdiagramm.pdf)
+[Sicherheitskonzept.pdf](/phase7/Sicherheitskonzept.pdf)

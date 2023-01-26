@@ -1,5 +1,6 @@
-# Phase 3 - Sequenzdiagramm
+# Phase 6 - Benutzerverwaltung
 
-## Folgendes Sequenzdiagramm wurde erstellt:
+## Folgendes Konzept zur Benutzerverwaltung wurde erstellt:
 
-[Sequenzdiagramm.pdf](/phase3/sequenzdiagramm.pdf)
+[Benutzerverwaltung.pdf](/phase6/Benutzerverwaltung.pdf)
+[Nutzerrechte.pdf](/phase6/Nutzerrechte.pdf)
